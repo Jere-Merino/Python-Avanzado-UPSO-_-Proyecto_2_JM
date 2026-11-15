@@ -1,5 +1,3 @@
-Marcos Rivas
-8:47 p.m.
 # Proyecto de Procesamiento de Imágenes
 ## Descripción
 
